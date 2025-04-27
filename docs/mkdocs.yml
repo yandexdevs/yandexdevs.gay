@@ -18,3 +18,8 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
+
+nav:
+  - Главная: index.md
+  - Исследования:
+      - Как делать реверс?: HOWTO-RESEARCH.md
