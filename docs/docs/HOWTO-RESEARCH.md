@@ -40,7 +40,7 @@
 ```
     git clone https://github.com/nlitsme/ubidump
     cd ubidump
-    pip install -r requirements.txtmarkdown
+    pip install -r requirements.txt
 ```
 
 На некоторых платформах тебе может понадобиться установить некоторые либы для 
